@@ -6,9 +6,9 @@
 
 ## About Me
 
-I’m a Computer Science graduate specializing in backend development and intelligent systems. My interests lie in scalable web solutions, AI integrations, and data-centric applications. With real-world experience in Laravel, MySQL, and Python-based tools, I bring a practical and thoughtful approach to software development.
+I’m a Computer Science graduate with a strong foundation in backend development, data modeling, and system design. Skilled in PHP, Python, SQL, and Laravel, I build scalable web applications and automation systems that enhance both user and business workflows.
 
-I thrive in collaborative environments and am passionate about building applications that solve real problems and improve efficiency. I’m currently working toward transitioning into the **Data Science** domain while building technically sound, user-friendly applications.
+With a background in team operations and technical leadership, I enjoy solving real-world problems through elegant code and collaborative development. Currently transitioning into the **Data Science** domain, I’m working to blend data intuition with engineering precision.
 
 ---
 
@@ -21,81 +21,81 @@ PHP • Python • SQL • C • JavaScript
 Laravel • HTML • CSS • WordPress • LaTeX
 
 **Tools & Platforms**  
-MySQL • Git • GitHub • MS Office • Google Colab
+MySQL • Git • GitHub • Google Colab • XAMPP • MS Office
 
 ---
 
 ## Projects
 
+### Laravel Project Tracker  
+**Complete Task Management System for Laravel Projects**  
+An internal tool to track Laravel-based project progress, developer activity, and issue resolution in real-time. Designed for productivity and clarity, it allows streamlined project supervision with minimal overhead.  
+Built with: Laravel, PHP, MySQL, Blade  
+[Repository](https://github.com/mohamed3shamil/laravel-project-tracker)
+
+---
+
 ### Ask Your Data  
 **Natural Language Interface for Structured Data Queries**  
-A local lightweight app that translates plain English queries into SQL to explore datasets.  
-Built using: Python, Pandas, LangChain, NLP  
+A lightweight system that allows users to interact with CSV datasets using plain English. Dynamically converts queries into SQL using a local LLM-based pipeline.  
+Built with: Python, Pandas, LangChain, Ollama  
 [Repository](https://github.com/mohamed3shamil/ask-your-data)
 
 ---
 
-### Laravel-Based Business Tracker *(Personal Project)*  
-**End-to-End Billing and Workflow Management System**  
-A personal project to design and build a business tracker using Laravel, automating invoices, staff management, and customer records. Emphasized responsive UI and modular backend logic, tailored for small businesses.  
-Built using: Laravel, PHP, MySQL, Blade, Bootstrap  
-
----
-
 ### AI-Powered Descriptive Answer Evaluation  
-**Automated Grading System for Subjective Exams**  
-Uses speech recognition and NLP to evaluate descriptive answers, ensuring fair and consistent feedback.  
-Built using: Python, SpeechRecognition, Scikit-learn, Flask
+**Automated Grading Platform for Subjective Responses**  
+Utilizes speech recognition and NLP techniques to evaluate descriptive answers. Ensures fairness and consistency while reducing manual workload in assessment.  
+Built with: Python, SpeechRecognition, Scikit-learn
 
 ---
 
 ### Karshaka Sahaayi  
-**Agricultural Data Platform**  
-Web portal to digitize farmer records, policy updates, and inventory systems for local bodies.  
-Built using: PHP, MySQL, HTML, CSS
+**Web-Based Agricultural Support System**  
+Developed to digitize and centralize farmer data, inventory details, and government scheme updates. Streamlines workflows for agricultural administration.  
+Built with: PHP, MySQL, HTML, CSS
 
 ---
 
-## Professional Experience
+## Experience
 
 ### PHP Laravel Intern  
 **Netplex Solutions, Dubai (Remote)**  
 *June 2025 – Present*  
-- Designed and implemented business software solutions using Laravel  
-- Enhanced user interface for better responsiveness and experience  
-- Conducted research and restructured workflows for operational efficiency
+- Built and maintained business software using Laravel and PHP  
+- Refined UI elements for responsiveness and modern usability  
+- Led efforts to optimize workflows and automate client-side interactions
 
 ### Executive Manager  
 **Cert-Ed Academia (Remote)**  
 *Jan 2024 – Apr 2025*  
-- Led platform operations and inter-department coordination  
-- Managed accounts, record-keeping, and internal automation  
-- Contributed to digital transformation of education services
+- Oversaw daily operations and coordinated digital teams  
+- Managed financial accounts, records, and interdepartmental workflows  
+- Designed internal automation systems and led web development initiatives
 
 ### Intern  
 **Inker Robotics, Thrissur, India**  
 *Jun 2024 – Jul 2024*  
-- Conducted usability testing and quality assurance on educational platforms  
-- Supported student training and assessment content development
+- Conducted UX and functionality testing for WordPress-based sites  
+- Supported training content and event coordination for students
 
 ---
 
 ## Education
 
 **B.Tech in Computer Science and Engineering**  
-*Adi Shankara Institute of Engineering and Technology (2021 – 2025)*  
+Adi Shankara Institute of Engineering and Technology (2021 – 2025)  
 Kerala, India
 
 ---
 
 ## Looking Ahead
 
-I’m currently building a bridge between backend development and **data science applications**, focusing on:
+Currently focusing on:
 
-- Predictive modeling  
-- Machine learning integration  
-- Natural language interfaces  
-- Efficient data infrastructure  
+- Advanced data handling and predictive modeling  
+- Web-based interfaces for AI-powered tools  
+- Clean backend architectures using Laravel and Python  
+- Real-time dashboards and NLP integrations  
 
-Let’s connect if you’re interested in collaborating on real-world problems or are hiring for data, backend, or AI projects.
-
+If you’re building something impactful—let’s connect.
