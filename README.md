@@ -8,7 +8,7 @@
 
 I’m a Computer Science graduate with a strong foundation in backend development, data modeling, and system design. Skilled in PHP, Python, SQL, and Laravel, I build scalable web applications and automation systems that enhance both user and business workflows.
 
-With a background in team operations and technical leadership, I enjoy solving real-world problems through elegant code and collaborative development. Currently transitioning into the **Data Science** domain, I’m working to blend data intuition with engineering precision.
+With a background in team operations and technical leadership, I enjoy solving real-world problems through elegant code and collaborative development. I focus on building tools that are clean, robust, and purposeful.
 
 ---
 
@@ -89,13 +89,11 @@ Kerala, India
 
 ---
 
-## Looking Ahead
+## Focus Areas
 
-Currently focusing on:
-
-- Advanced data handling and predictive modeling  
-- Web-based interfaces for AI-powered tools  
 - Clean backend architectures using Laravel and Python  
-- Real-time dashboards and NLP integrations  
+- AI-assisted productivity and automation tools  
+- Natural language interfaces and data systems  
+- Real-time dashboards and internal tools for organizations
 
 If you’re building something impactful—let’s connect.
