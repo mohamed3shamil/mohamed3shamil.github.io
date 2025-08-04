@@ -1,4 +1,4 @@
-# Mohamed Shamil  
+# Mohamed Shamil Abdul Salam  
 **Backend Developer | AI Enthusiast | Data-Driven Technologist**  
 [LinkedIn](https://www.linkedin.com/in/mohamed3shamil) • [GitHub](https://github.com/mohamed3shamil) • [Email](mailto:mhmdshamil03@gmail.com)
 
