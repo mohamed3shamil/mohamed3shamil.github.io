@@ -62,9 +62,10 @@ Built with: PHP, MySQL, HTML, CSS
 ### PHP Laravel Intern  
 **Netplex Solutions, Dubai (Remote)**  
 *June 2025 – Present*  
-- Built and maintained business software using Laravel and PHP  
-- Refined UI elements for responsiveness and modern usability  
-- Led efforts to optimize workflows and automate client-side interactions
+- Developing and maintaining business software using Laravel and PHP  
+- Enhancing UI for better responsiveness and usability across devices  
+- Actively optimizing workflows and automating client-side processes  
+- Participating in production-level feature development, bug fixes, and code reviews
 
 ### Executive Manager  
 **Cert-Ed Academia (Remote)**  
